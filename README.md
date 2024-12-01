@@ -1,0 +1,1 @@
+This is a simple and intuitive English to French Translator app built using Kivy, powered by the Helsinki-NLP/opus-mt-en-fr model from Hugging Face. The app leverages state-of-the-art machine translation technology to provide accurate and efficient translations between English and French.
